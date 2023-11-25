@@ -50,7 +50,7 @@ export default function Footer() {
 
             <div className='Footer2'>
                 <div>
-                    <p><p className='FontStyleNav' id='nametag'>A to Z</p></p>
+                    <p><p className='FontStyleNav' id='nametag'>shopsy</p></p>
                 </div>
 
                 <div>
